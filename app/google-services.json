@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333693608253",
+    "firebase_url": "https://matchgame-ac7e8.firebaseio.com",
+    "project_id": "matchgame-ac7e8",
+    "storage_bucket": "matchgame-ac7e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333693608253:android:750f11af6561472b",
+        "android_client_info": {
+          "package_name": "com.match.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333693608253-gvcb3795fhi9ctl0m82bgcnkokp9l5v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf_gKzawW8haQue5JSuPnKr_ebAzSWQks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333693608253-gvcb3795fhi9ctl0m82bgcnkokp9l5v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cloack project</string>
+    <string name="facebook_app_id">545812389580788</string>
+    <string name="fb_login_protocol_scheme">fb545812389580788</string>
+</resources>
